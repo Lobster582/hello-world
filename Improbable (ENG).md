@@ -11,6 +11,8 @@ But while it runs your game and manages the infrastructure for you, SpatialOS al
 
 The traditional ways to develop large online games mean that you’re either limited by the capacity of a single game server, or you have to shard your game world. 
 
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
 
 ## How this architecture supports persistence, scale, and complexity
 
